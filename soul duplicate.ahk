@@ -16,7 +16,7 @@ while (running) {
   Click, 2650, 1570
   Sleep, 200
 
-  Click, 2300, 475
+  Click, 2605, 475
   Sleep, 200
   Click, 1050, 1540
   Sleep, 200
